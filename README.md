@@ -1,6 +1,8 @@
 # THE CHASE - Butterfly Challenge
 THE CHASE - Butterfly Challenge の台本作成
 
+何か目指しているけれど、何も持っていない
+
 未来に希望を持っている人をみんなターゲットにしようと思っています。
 
 できるから「やる」ではなく、できないから「やる」
