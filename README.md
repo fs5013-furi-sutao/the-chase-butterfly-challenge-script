@@ -3,6 +3,8 @@ THE CHASE - Butterfly Challenge の台本作成
 
 未来に希望を持っている人をみんなターゲットにしようと思っています。
 
+できるから「やる」ではなく、できないから「やる」
+
 ![](./images/the-chase-butterfly-challenge-banner.png)
 
 最後に自分のミッションを話させてください、夢と希望を持つ人に、自身を提供する。これが自分のミッションだと思っています。
